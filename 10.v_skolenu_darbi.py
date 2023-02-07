@@ -1,6 +1,7 @@
 #Tatjana Grencione
 
 #1 Azarēviča Arina
+print(cos(radians(60)+fmod(15,2)))
 
 #2 Bāra Antuanete
 
